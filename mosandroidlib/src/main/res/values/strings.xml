@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MOSAndroidLib</string>
+
+    <!-- dialogs package texts -->
+    <string name="ok">OK</string>
+
+    <!-- maps package texts -->
+    <string name="maps.app.not.installed">"Maps application is not installed. Please install Maps application to view map."</string>
+
+    <!-- helper methods -->
+    <string name="helper.network.error">Network Error</string>
+    <string name="helper.internet.not.available">Internet not available. Please check your WiFi connection.</string>
+    <string name="helper.invalid.url">Invalid URL.</string>
+</resources>
